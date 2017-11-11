@@ -16,7 +16,7 @@
 	    "extIcon":                  "https://raw.githubusercontent.com/frankjoke/ioBroker.xs1/master/admin/xs1.png",
 	    "keywords":                 ["EZcontrol","XS1", "FS20", "FS10"],
         "readme":                   "https://github.com/frankjoke/ioBroker.xs1/blob/master/README.md",
-        "type":                     "hardware"
+        "type":                     "iot-systems"
     },
     "native": {
         "adresse":"http://XS1",
